@@ -58,6 +58,7 @@ while True:
 
      choice = input("Hangi işlemi gerçekleştirmek istiyorusunuz (1/2/3):  ")
 
+
      if choice == "1":
           ogrenci_ekle()
      elif choice == "2":
